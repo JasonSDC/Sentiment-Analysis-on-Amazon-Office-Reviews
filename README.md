@@ -16,6 +16,7 @@ This project implements a comprehensive sentiment analysis pipeline that:
 
 ## Dataset
 
+- **Download**: [Google Drive](https://drive.google.com/drive/folders/1khdzXElRcIxVUR8s-4oQhDMzfeXInnl2?usp=sharing) (place the `.tsv.zip` file in the project root directory)
 - **Source**: [Amazon Customer Reviews Dataset](https://www.amazon.com/review)
 - **Product Category**: Office Products
 - **Total Reviews**: 2,642,434
